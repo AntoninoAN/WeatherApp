@@ -8,24 +8,28 @@
     tools:context="com.foo.umbrella.ui.OptionsWeather">
     <Toolbar
         android:layout_width="match_parent"
-        android:layout_height="50dp"
-
+        android:layout_height="@dimen/toolbar"
+        android:background="@color/toolbar_color"
         >
-
+    <TextView
+        android:text="@string/app_name"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="@dimen/text_titles"/>
     </Toolbar>
-    
+
     <android.support.v7.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="100dp"
         app:cardUseCompatPadding="true"
-        android:layout_margin="10dp"
-         >
+        android:background="@color/forecast_card_divider">
         <TextView
             android:id="@+id/tv_zip"
             android:text="@string/tv_zip"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="@dimen/text_body"/>
+            android:textSize="@dimen/text_body"
+            android:layout_marginLeft="10dp"/>
         <EditText
             android:id="@+id/et_zip"
             android:layout_width="match_parent"
@@ -35,12 +39,12 @@
         android:layout_width="match_parent"
         android:layout_height="100dp"
         app:cardUseCompatPadding="true"
-        android:layout_margin="10dp">
+        android:background="@color/forecast_card_divider">
         <Spinner
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/spinner_metrics"
-            >
+            android:layout_marginLeft="10dp">
         </Spinner>
     </android.support.v7.widget.CardView>
 </LinearLayout>

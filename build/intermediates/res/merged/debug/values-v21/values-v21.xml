@@ -287,9 +287,7 @@
 
         <item name="colorAccent">@color/accent</item>
         <item name="colorPrimary">@color/accent</item>
-        <item name="android:statusBarColor">
-            @android:color/secondary_text_light
-        </item>
+
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
     </style>
     <style name="Widget.AppCompat.NotificationActionContainer" parent="">

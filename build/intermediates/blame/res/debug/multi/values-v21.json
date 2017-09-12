@@ -2018,9 +2018,9 @@
                     "startLine": 279,
                     "startColumn": 4,
                     "startOffset": 20451,
-                    "endLine": 293,
+                    "endLine": 291,
                     "endColumn": 12,
-                    "endOffset": 21197
+                    "endOffset": 21089
                 },
                 "from": {
                     "file": "/home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/res/values-v21/styles.xml",
@@ -2028,20 +2028,20 @@
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 56,
-                        "endLine": 17,
+                        "endLine": 15,
                         "endColumn": 12,
-                        "endOffset": 803
+                        "endOffset": 695
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 294,
+                    "startLine": 292,
                     "startColumn": 4,
-                    "startOffset": 21202,
-                    "endLine": 296,
+                    "startOffset": 21094,
+                    "endLine": 294,
                     "endColumn": 12,
-                    "endOffset": 21372
+                    "endOffset": 21264
                 },
                 "from": {
                     "file": "/home/tony/.android/build-cache/807a8f6b4c384cb22c57e28d005ed10abbe27aa4/output/res/values-v21/values-v21.xml",
@@ -2057,12 +2057,12 @@
             },
             {
                 "to": {
-                    "startLine": 297,
+                    "startLine": 295,
                     "startColumn": 4,
-                    "startOffset": 21377,
-                    "endLine": 301,
+                    "startOffset": 21269,
+                    "endLine": 299,
                     "endColumn": 12,
-                    "endOffset": 21713
+                    "endOffset": 21605
                 },
                 "from": {
                     "file": "/home/tony/.android/build-cache/807a8f6b4c384cb22c57e28d005ed10abbe27aa4/output/res/values-v21/values-v21.xml",
@@ -2078,12 +2078,12 @@
             },
             {
                 "to": {
-                    "startLine": 302,
+                    "startLine": 300,
                     "startColumn": 4,
-                    "startOffset": 21718,
-                    "endLine": 304,
+                    "startOffset": 21610,
+                    "endLine": 302,
                     "endColumn": 12,
-                    "endOffset": 21911
+                    "endOffset": 21803
                 },
                 "from": {
                     "file": "/home/tony/.android/build-cache/23cd05c69e45110d41c7905c54ef3ce2ad5b7782/output/res/values-v21/values-v21.xml",
