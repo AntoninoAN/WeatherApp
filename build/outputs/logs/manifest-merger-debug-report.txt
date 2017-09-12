@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [com.android.support:design:25.1.0] /home/tony/.android/build-cache/23cd05c69e45110d41c7905c54ef3ce2ad5b7782/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/tony/.android/build-cache/807a8f6b4c384cb22c57e28d005ed10abbe27aa4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/tony/.android/build-cache/17eaba28d60fc1ee0fd1ce2cf926321961a62f1b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/tony/.android/build-cache/d8fa1b4fc52ccf21419e1d29352d9b75084ac579/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.0] /home/tony/.android/build-cache/0ac3d4942da226b0745e887a53fa41eedeb4b1ca/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/tony/.android/build-cache/2eb3a915b26e39177fa2773d08bb880e580f1893/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/tony/.android/build-cache/bc49be18ea5e4f92f7e68bc45c80f69a34ec9229/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/tony/.android/build-cache/86cc5790ecf42f1311abb990d965e3cf9295e988/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/tony/.android/build-cache/780213926277865f52fe191f6cbc111b83c809d2/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/tony/.android/build-cache/b507982a769ae904bd4552a5bb1631ed644d0130/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/tony/.android/build-cache/a1977afd61d8217d0ff70316c2effdeb222fdb62/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.1.0] /home/tony/.android/build-cache/72de47e3280e8a31921b14f6f2dcab6279ba200c/output/AndroidManifest.xml:22:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.0.4] /home/tony/.android/build-cache/ca89cb75c9b39eed7310ca601bbf6e49d8299ca5/output/AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/tony/.android/build-cache/907f0743754d58e2582b5236d52e8658b4301f88/output/AndroidManifest.xml:8:5-20
+MERGED from [com.f2prateek.rx.preferences:rx-preferences:1.0.2] /home/tony/.android/build-cache/7fe2ea3fe1ed12e11fd6e2992b262f284cce4c64/output/AndroidManifest.xml:8:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/tony/.android/build-cache/577253b6b1470331db9cff84f908616283ebd11d/output/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.4.2] /home/tony/.android/build-cache/b02f70970e62d1c2ed8b24b0058094c27a6d6ae4/output/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.4.2] /home/tony/.android/build-cache/b4355be98a57bac72b32017477c8778fc63b81e5/output/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-timber:1.4.2] /home/tony/.android/build-cache/0b39d52dbdc0a8ded75d02eddfb5ed2d1756d0a2/output/AndroidManifest.xml:21:5-20
+	android:label
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:11:9-41
+	android:allowBackup
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:12:9-46
+	android:name
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:8:9-36
+activity#com.foo.umbrella.ui.MainActivity
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:14:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:19:27-74
+activity#com.foo.umbrella.ui.OptionsWeather
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:22:9-64
+	android:name
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml:22:19-52
+uses-sdk
+INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.1.0] /home/tony/.android/build-cache/23cd05c69e45110d41c7905c54ef3ce2ad5b7782/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/tony/.android/build-cache/807a8f6b4c384cb22c57e28d005ed10abbe27aa4/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/tony/.android/build-cache/17eaba28d60fc1ee0fd1ce2cf926321961a62f1b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/tony/.android/build-cache/d8fa1b4fc52ccf21419e1d29352d9b75084ac579/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/tony/.android/build-cache/b98b43ba8bbfd705d7f5b05f6ff6ae6f489711d4/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.0] /home/tony/.android/build-cache/0ac3d4942da226b0745e887a53fa41eedeb4b1ca/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.0] /home/tony/.android/build-cache/2eb3a915b26e39177fa2773d08bb880e580f1893/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/tony/.android/build-cache/bc49be18ea5e4f92f7e68bc45c80f69a34ec9229/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/tony/.android/build-cache/86cc5790ecf42f1311abb990d965e3cf9295e988/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/tony/.android/build-cache/780213926277865f52fe191f6cbc111b83c809d2/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/tony/.android/build-cache/b507982a769ae904bd4552a5bb1631ed644d0130/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/tony/.android/build-cache/a1977afd61d8217d0ff70316c2effdeb222fdb62/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.1.0] /home/tony/.android/build-cache/72de47e3280e8a31921b14f6f2dcab6279ba200c/output/AndroidManifest.xml:20:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] /home/tony/.android/build-cache/5067e00acea522a3b1f6e2d7b73495d75eeee4fc/output/AndroidManifest.xml:19:5-43
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.0.4] /home/tony/.android/build-cache/ca89cb75c9b39eed7310ca601bbf6e49d8299ca5/output/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/tony/.android/build-cache/907f0743754d58e2582b5236d52e8658b4301f88/output/AndroidManifest.xml:6:5-43
+MERGED from [com.f2prateek.rx.preferences:rx-preferences:1.0.2] /home/tony/.android/build-cache/7fe2ea3fe1ed12e11fd6e2992b262f284cce4c64/output/AndroidManifest.xml:6:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/tony/.android/build-cache/577253b6b1470331db9cff84f908616283ebd11d/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.4.2] /home/tony/.android/build-cache/b02f70970e62d1c2ed8b24b0058094c27a6d6ae4/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.4.2] /home/tony/.android/build-cache/b4355be98a57bac72b32017477c8778fc63b81e5/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-timber:1.4.2] /home/tony/.android/build-cache/0b39d52dbdc0a8ded75d02eddfb5ed2d1756d0a2/output/AndroidManifest.xml:16:5-19:46
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] /home/tony/.android/build-cache/23cd05c69e45110d41c7905c54ef3ce2ad5b7782/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/src/main/AndroidManifest.xml

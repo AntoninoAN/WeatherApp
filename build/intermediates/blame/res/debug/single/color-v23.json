@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/tony/.android/build-cache/807a8f6b4c384cb22c57e28d005ed10abbe27aa4/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/tony/.android/build-cache/807a8f6b4c384cb22c57e28d005ed10abbe27aa4/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/tony/.android/build-cache/807a8f6b4c384cb22c57e28d005ed10abbe27aa4/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/tony/.android/build-cache/807a8f6b4c384cb22c57e28d005ed10abbe27aa4/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/tony/.android/build-cache/807a8f6b4c384cb22c57e28d005ed10abbe27aa4/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/tony/.android/build-cache/807a8f6b4c384cb22c57e28d005ed10abbe27aa4/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/tony/.android/build-cache/807a8f6b4c384cb22c57e28d005ed10abbe27aa4/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/tony/.android/build-cache/807a8f6b4c384cb22c57e28d005ed10abbe27aa4/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/tony/.android/build-cache/807a8f6b4c384cb22c57e28d005ed10abbe27aa4/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/tony/.android/build-cache/807a8f6b4c384cb22c57e28d005ed10abbe27aa4/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/WeatherUndergroundApi/Umbrella/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/tony/.android/build-cache/23cd05c69e45110d41c7905c54ef3ce2ad5b7782/output/res/color-v23/design_tint_password_toggle.xml"
+    }
+]

@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">Umbrella</string>
+    <string name="tv_zip">Zip</string>
+  <string name="tv_title_appbar">Umbrella</string>
+  <string-array name="spinner_items">
+    <item>Celsius</item>
+    <item>Farenheit</item>
+  </string-array>
+</resources>
