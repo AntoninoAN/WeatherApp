@@ -31,9 +31,11 @@
             android:textSize="@dimen/text_body"
             android:layout_marginLeft="10dp"/>
         <EditText
+
             android:id="@+id/et_zip"
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_height="match_parent"
+            android:selectAllOnFocus="true"/>
     </android.support.v7.widget.CardView>
     <android.support.v7.widget.CardView
         android:layout_width="match_parent"
@@ -44,7 +46,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/spinner_metrics"
-            android:layout_marginLeft="10dp">
+            android:layout_marginLeft="10dp"
+            android:entries="@array/metrics_items">
         </Spinner>
     </android.support.v7.widget.CardView>
 </LinearLayout>

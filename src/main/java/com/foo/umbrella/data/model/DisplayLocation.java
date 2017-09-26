@@ -20,7 +20,8 @@ public abstract class DisplayLocation {
      * @return a String in the form of "City, StateAbbreviation". Ex. "Minneapolis, MN"
      */
     @Json(name = "full")
-    public abstract String getFullName(); abstract String getCity();
+    public abstract String getFullName();
+    abstract String getCity();
 
     @Json(name = "state")
     public abstract String getStateAbbreviation();
